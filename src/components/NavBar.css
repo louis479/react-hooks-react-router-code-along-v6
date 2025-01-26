@@ -1,0 +1,13 @@
+.nav-link {
+    display: inline-block;
+    margin: 0 6px;
+    padding: 5px;
+    background: blue;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .active {
+    color: red;
+  }
+  
